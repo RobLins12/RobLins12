@@ -4,7 +4,7 @@ I'm Robson Júnior, Student of UNICAP 😉
 
 ### Tenho conhecimento em
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" heigh="40" width="40"/>
           
 <!--
 **RobLins12/RobLins12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
