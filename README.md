@@ -4,7 +4,7 @@ I'm Robson Júnior, Dev Mobile 😉
 
 ### Sobre mim
 
-Formado em ciência da computação pela Universidade católica de pernambuco. Realizoeiprojeto de pesquisa tendo enfâse em Inteligência artificial, redes neurais profundas e sistemas robôticos. Atualmente faço mestrado na Universidade Federal de Pernambuco.
+Formado em ciência da computação pela Universidade Católica de Pernambuco. Realizei projeto de pesquisa tendo enfâse em Inteligência artificial, redes neurais profundas e sistemas robôticos. Atualmente faço mestrado na Universidade Federal de Pernambuco com o propósito de estudar Inteligência Artificial e seus usos na saúde.
 
 ### Tenho conhecimento em
 
