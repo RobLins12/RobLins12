@@ -1,10 +1,10 @@
 ### Hi there, Wellcome to my github profile 👋
 
-I'm Robson Júnior, Student of UNICAP 😉
+I'm Robson Júnior, Dev Mobile 😉
 
 ### Sobre mim
 
-Sou aluno de ciência da computação de sexto período da Universidade católica de pernambuco. Realizo projeto de pesquisa tendo o atual com enfâse em Inteligência artificial, redes neurais profundas e sistemas robôticos.
+Formado em ciência da computação pela Universidade católica de pernambuco. Realizoeiprojeto de pesquisa tendo enfâse em Inteligência artificial, redes neurais profundas e sistemas robôticos. Atualmente faço mestrado na Universidade Federal de Pernambuco.
 
 ### Tenho conhecimento em
 
